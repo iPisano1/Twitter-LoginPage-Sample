@@ -49,8 +49,8 @@ if(d.type === "password"){
 
 // LOGIN AND REGISTRATION
 
-let users = ["admin"];
-let passwords = ["admin"];
+let users = [];
+let passwords = [];
 
 function loginUser() {
 
